@@ -1,2 +1,2 @@
-# regax-examples
-Some python scripts with regax
+# regex-examples
+Some python scripts with regex
